@@ -1,4 +1,4 @@
-virtualenv .
-source bin/activate
-pip install -r requirements.txt
-python run tsdp/manage.py runserver
+virtualenv .<br>
+source bin/activate<br>
+pip install -r requirements.txt<br>
+python run tsdp/manage.py runserver<br>
