@@ -1,6 +1,6 @@
 ## Installation instructions<br>
 <br>
-git clone https://github.com/jianmyphy123/tsdp.git
+git clone https://github.com/jianmyphy123/tsdp.git <br>
 cd tsdp
 virtualenv .<br>
 source bin/activate<br>
